@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/12186574/235836540-b8d21d67-f029-410d-a74f-ff6f824e320b.png)
+
+
+
+
 Solução criada para praticar os fundamentos do C#.
 
 Projetos feitos a partir de exemplos dados, modificados para fixação
