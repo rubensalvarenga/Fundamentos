@@ -1,0 +1,154 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculadora/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Calculadora.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculadora.dll": {}
+        }
+      },
+      "Stopwatch/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Stopwatch.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stopwatch.dll": {}
+        }
+      },
+      "TextEditor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TextEditor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextEditor.dll": {}
+        }
+      },
+      "TratamentoString/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TratamentoString.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TratamentoString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora/1.0.0": {
+      "type": "project",
+      "path": "../../Calculadora/Calculadora/Calculadora.csproj",
+      "msbuildProject": "../../Calculadora/Calculadora/Calculadora.csproj"
+    },
+    "Stopwatch/1.0.0": {
+      "type": "project",
+      "path": "../Stopwatch/Stopwatch.csproj",
+      "msbuildProject": "../Stopwatch/Stopwatch.csproj"
+    },
+    "TextEditor/1.0.0": {
+      "type": "project",
+      "path": "../TextEditor/TextEditor.csproj",
+      "msbuildProject": "../TextEditor/TextEditor.csproj"
+    },
+    "TratamentoString/1.0.0": {
+      "type": "project",
+      "path": "../TratamentoString/TratamentoString.csproj",
+      "msbuildProject": "../TratamentoString/TratamentoString.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Calculadora >= 1.0.0",
+      "Stopwatch >= 1.0.0",
+      "TextEditor >= 1.0.0",
+      "TratamentoString >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ruben\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projetos\\VSC\\Fundamentos\\Fundamentos\\Fundamentos.csproj",
+      "projectName": "Fundamentos",
+      "projectPath": "C:\\Projetos\\VSC\\Fundamentos\\Fundamentos\\Fundamentos.csproj",
+      "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\VSC\\Fundamentos\\Fundamentos\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Projetos\\VSC\\Calculadora\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "C:\\Projetos\\VSC\\Calculadora\\Calculadora\\Calculadora.csproj"
+            },
+            "C:\\Projetos\\VSC\\Fundamentos\\Stopwatch\\Stopwatch.csproj": {
+              "projectPath": "C:\\Projetos\\VSC\\Fundamentos\\Stopwatch\\Stopwatch.csproj"
+            },
+            "C:\\Projetos\\VSC\\Fundamentos\\TextEditor\\TextEditor.csproj": {
+              "projectPath": "C:\\Projetos\\VSC\\Fundamentos\\TextEditor\\TextEditor.csproj"
+            },
+            "C:\\Projetos\\VSC\\Fundamentos\\TratamentoString\\TratamentoString.csproj": {
+              "projectPath": "C:\\Projetos\\VSC\\Fundamentos\\TratamentoString\\TratamentoString.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

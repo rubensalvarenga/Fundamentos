@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fundamentos/1.0.0": {
+        "dependencies": {
+          "Calculadora": "1.0.0",
+          "Stopwatch": "1.0.0",
+          "TextEditor": "1.0.0",
+          "TratamentoString": "1.0.0"
+        },
+        "runtime": {
+          "Fundamentos.dll": {}
+        }
+      },
+      "Calculadora/1.0.0": {
+        "runtime": {
+          "Calculadora.dll": {}
+        }
+      },
+      "Stopwatch/1.0.0": {
+        "runtime": {
+          "Stopwatch.dll": {}
+        }
+      },
+      "TextEditor/1.0.0": {
+        "runtime": {
+          "TextEditor.dll": {}
+        }
+      },
+      "TratamentoString/1.0.0": {
+        "runtime": {
+          "TratamentoString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stopwatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TratamentoString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

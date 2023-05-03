@@ -1,0 +1,14 @@
+C:\Projetos\VSC\Fundamentos\TratamentoString\bin\Debug\netcoreapp3.1\TratamentoString.exe
+C:\Projetos\VSC\Fundamentos\TratamentoString\bin\Debug\netcoreapp3.1\TratamentoString.deps.json
+C:\Projetos\VSC\Fundamentos\TratamentoString\bin\Debug\netcoreapp3.1\TratamentoString.runtimeconfig.json
+C:\Projetos\VSC\Fundamentos\TratamentoString\bin\Debug\netcoreapp3.1\TratamentoString.runtimeconfig.dev.json
+C:\Projetos\VSC\Fundamentos\TratamentoString\bin\Debug\netcoreapp3.1\TratamentoString.dll
+C:\Projetos\VSC\Fundamentos\TratamentoString\bin\Debug\netcoreapp3.1\TratamentoString.pdb
+C:\Projetos\VSC\Fundamentos\TratamentoString\obj\Debug\netcoreapp3.1\TratamentoString.csproj.AssemblyReference.cache
+C:\Projetos\VSC\Fundamentos\TratamentoString\obj\Debug\netcoreapp3.1\TratamentoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\VSC\Fundamentos\TratamentoString\obj\Debug\netcoreapp3.1\TratamentoString.AssemblyInfoInputs.cache
+C:\Projetos\VSC\Fundamentos\TratamentoString\obj\Debug\netcoreapp3.1\TratamentoString.AssemblyInfo.cs
+C:\Projetos\VSC\Fundamentos\TratamentoString\obj\Debug\netcoreapp3.1\TratamentoString.csproj.CoreCompileInputs.cache
+C:\Projetos\VSC\Fundamentos\TratamentoString\obj\Debug\netcoreapp3.1\TratamentoString.dll
+C:\Projetos\VSC\Fundamentos\TratamentoString\obj\Debug\netcoreapp3.1\TratamentoString.pdb
+C:\Projetos\VSC\Fundamentos\TratamentoString\obj\Debug\netcoreapp3.1\TratamentoString.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Projetos\VSC\Fundamentos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+C:\Projetos\VSC\Fundamentos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+C:\Projetos\VSC\Fundamentos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+C:\Projetos\VSC\Fundamentos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+C:\Projetos\VSC\Fundamentos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+C:\Projetos\VSC\Fundamentos\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Projetos\VSC\Fundamentos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.AssemblyReference.cache
+C:\Projetos\VSC\Fundamentos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\VSC\Fundamentos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+C:\Projetos\VSC\Fundamentos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+C:\Projetos\VSC\Fundamentos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\Projetos\VSC\Fundamentos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+C:\Projetos\VSC\Fundamentos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Projetos\VSC\Fundamentos\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache
