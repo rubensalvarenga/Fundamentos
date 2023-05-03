@@ -9,6 +9,7 @@
       "Fundamentos/1.0.0": {
         "dependencies": {
           "Calculadora": "1.0.0",
+          "EditorHtml": "1.0.0",
           "Stopwatch": "1.0.0",
           "TextEditor": "1.0.0",
           "TratamentoString": "1.0.0"
@@ -20,6 +21,11 @@
       "Calculadora/1.0.0": {
         "runtime": {
           "Calculadora.dll": {}
+        }
+      },
+      "EditorHtml/1.0.0": {
+        "runtime": {
+          "EditorHtml.dll": {}
         }
       },
       "Stopwatch/1.0.0": {
@@ -46,6 +52,11 @@
       "sha512": ""
     },
     "Calculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EditorHtml/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

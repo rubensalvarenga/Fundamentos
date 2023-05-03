@@ -14,7 +14,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stopwatch", "Stopwatch\Stop
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextEditor", "TextEditor\TextEditor.csproj", "{1AFA8B41-995D-404F-91C0-E9B0407613A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoString", "TratamentoString\TratamentoString.csproj", "{5626B9A9-24AD-4C9F-A301-23D8A2FA8942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TratamentoString", "TratamentoString\TratamentoString.csproj", "{5626B9A9-24AD-4C9F-A301-23D8A2FA8942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorHtml", "EditorHtml\EditorHtml.csproj", "{863B2871-6BAD-42BE-9F73-514E5D2C17C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,6 +44,10 @@ Global
 		{5626B9A9-24AD-4C9F-A301-23D8A2FA8942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5626B9A9-24AD-4C9F-A301-23D8A2FA8942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5626B9A9-24AD-4C9F-A301-23D8A2FA8942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863B2871-6BAD-42BE-9F73-514E5D2C17C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863B2871-6BAD-42BE-9F73-514E5D2C17C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863B2871-6BAD-42BE-9F73-514E5D2C17C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863B2871-6BAD-42BE-9F73-514E5D2C17C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

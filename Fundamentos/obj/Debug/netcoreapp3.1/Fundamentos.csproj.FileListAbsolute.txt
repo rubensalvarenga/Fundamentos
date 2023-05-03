@@ -37,3 +37,9 @@ C:\Projetos\VSC\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\TratamentoString
 C:\Projetos\VSC\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\TratamentoString.exe
 C:\Projetos\VSC\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\TratamentoString.dll
 C:\Projetos\VSC\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\TratamentoString.pdb
+C:\Projetos\VSC\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+C:\Projetos\VSC\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+C:\Projetos\VSC\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+C:\Projetos\VSC\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\EditorHtml.exe
+C:\Projetos\VSC\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Projetos\VSC\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\EditorHtml.pdb

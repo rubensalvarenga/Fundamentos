@@ -12,6 +12,16 @@
           "bin/placeholder/Calculadora.dll": {}
         }
       },
+      "EditorHtml/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/EditorHtml.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EditorHtml.dll": {}
+        }
+      },
       "Stopwatch/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -50,6 +60,11 @@
       "path": "../../Calculadora/Calculadora/Calculadora.csproj",
       "msbuildProject": "../../Calculadora/Calculadora/Calculadora.csproj"
     },
+    "EditorHtml/1.0.0": {
+      "type": "project",
+      "path": "../EditorHtml/EditorHtml.csproj",
+      "msbuildProject": "../EditorHtml/EditorHtml.csproj"
+    },
     "Stopwatch/1.0.0": {
       "type": "project",
       "path": "../Stopwatch/Stopwatch.csproj",
@@ -69,6 +84,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Calculadora >= 1.0.0",
+      "EditorHtml >= 1.0.0",
       "Stopwatch >= 1.0.0",
       "TextEditor >= 1.0.0",
       "TratamentoString >= 1.0.0"
@@ -109,6 +125,9 @@
           "projectReferences": {
             "C:\\Projetos\\VSC\\Calculadora\\Calculadora\\Calculadora.csproj": {
               "projectPath": "C:\\Projetos\\VSC\\Calculadora\\Calculadora\\Calculadora.csproj"
+            },
+            "C:\\Projetos\\VSC\\Fundamentos\\EditorHtml\\EditorHtml.csproj": {
+              "projectPath": "C:\\Projetos\\VSC\\Fundamentos\\EditorHtml\\EditorHtml.csproj"
             },
             "C:\\Projetos\\VSC\\Fundamentos\\Stopwatch\\Stopwatch.csproj": {
               "projectPath": "C:\\Projetos\\VSC\\Fundamentos\\Stopwatch\\Stopwatch.csproj"
